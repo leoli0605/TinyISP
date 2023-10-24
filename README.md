@@ -49,5 +49,6 @@
 - [ ] Formats/BMP
 - [ ] Formats/JPEG
 - [ ] Formats/PNG
+- [ ] Formats/SVG
 - [ ] Formats/HEIC
 - [ ] Formats/WEBP
